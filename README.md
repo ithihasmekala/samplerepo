@@ -66,6 +66,7 @@ addition(5,10)
     
   }
   ```
+  -------------------------------------
   for question types
   
   What is the command to check how many branches are available?
@@ -73,7 +74,9 @@ addition(5,10)
   - [] git checkout
   - [ ] git commits
   - [x] git branch
-  
+  --------------------
   :smiley:
   
   :star:
+for note:
+> This is a comment line
